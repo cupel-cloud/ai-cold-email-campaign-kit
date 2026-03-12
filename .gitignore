@@ -1,0 +1,7 @@
+.env
+outputs/*.csv
+outputs/*.md
+!outputs/.gitkeep
+__pycache__/
+*.pyc
+.DS_Store
